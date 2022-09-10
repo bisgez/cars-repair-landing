@@ -1,0 +1,39 @@
+@media(max-width: 1260px) {
+    .info__item {
+        padding: 30px;
+    }
+
+
+.info__title {
+    font-size: 16px;
+}
+
+.info__text {
+    font-size: 14px;
+}
+
+}
+
+@media (max-width: 1080px) {
+    .info__title {
+        letter-spacing: unset;
+    }
+
+    .about__block {
+        padding-right: 30px;
+    }
+
+    .services__content {
+        height: 400px;
+    }
+}
+
+@media (max-width: 992px) {
+    .intro__content {
+        height: 530px;
+    }
+}
+    
+
+
+    

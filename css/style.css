@@ -171,10 +171,6 @@ p {
     z-index: 2;
 }
 
-.intro__block {
-
-}
-
 .intro__title {
     max-width: 790px;
     margin-bottom: 30px;
@@ -505,10 +501,6 @@ p {
 /* contacts end */
 
 /* footer start */
-
-.footer {
-
-}
 
 .footer__wrapper {
     height: 150px;
